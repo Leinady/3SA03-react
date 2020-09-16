@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       <a>6135512040</a>
+      <img src={logo} className="App-logo" alt="logo" />
      <WordCard value="hello"/>
     </div>
   );
