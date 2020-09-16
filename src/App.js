@@ -8,6 +8,7 @@ const word = "Hello";
 function App() {
   return (
     <div>
+      <h1>React LAB</h1>
       <a>6135512040</a>
       <img src={logo} className="App-logo" alt="logo" />
      <WordCard value="hello"/>
